@@ -20,7 +20,7 @@ This project simulates a real-world telecom data environment inspired by Jio, on
 ## 📊 Datasets Overview
 
 ### 1. `customers`
-Customer details with device type, SIM type, city, and referral info. 
+Customer details with device type, SIM type, city, and referral info.  
 
 | Column Name   | Description                      |
 |---------------|----------------------------------|
