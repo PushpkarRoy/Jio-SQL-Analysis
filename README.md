@@ -9,7 +9,7 @@ This project simulates a real-world telecom data environment inspired by Jio, on
 📦 JIO_Problem_SQL_Project/
 ├── jio_customers.csv # Customer details
 ├── jio_data_usage.csv # Daily data usage logs
-├── jio_recharges.csv # Recharge history 
+├── jio_recharges.csv # Recharge history  
 ├── Jio_analysis_sql.sql # All 20 solved SQL queries   
 ├── README.md # Project documentation
 
